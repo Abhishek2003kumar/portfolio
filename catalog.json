@@ -4,23 +4,21 @@
     "version": "97ba476c"
   },
   "products": [
-    {
-      "id": "prod-97ba476c-001",
-      "name": "Classic Cotton T-Shirt",
-      "category": "clothing",
-      "price": 799.99,
-      "stock": 25,
-      "rating": 4.5
-    },
-    {
-      "id": "prod-97ba476c-002",
-      "name": "Denim Jeans",
-      "category": "clothing",
-      "price": 1999.99,
-      "stock": 12,
-      "rating": 4.3
-    }
-    // ... continue until 15 total products
+    {"id": "prod-97ba476c-001", "name": "Elite Item 1", "category": "electronics", "price": 312.45, "stock": 54, "rating": 4.1},
+    {"id": "prod-97ba476c-002", "name": "Pro Item 2", "category": "sports", "price": 145.12, "stock": 76, "rating": 3.8},
+    {"id": "prod-97ba476c-003", "name": "Pro Item 3", "category": "sports", "price": 233.18, "stock": 166, "rating": 3.3},
+    {"id": "prod-97ba476c-004", "name": "Basic Item 4", "category": "sports", "price": 299.07, "stock": 106, "rating": 3.4},
+    {"id": "prod-97ba476c-005", "name": "Elite Item 5", "category": "electronics", "price": 249.62, "stock": 141, "rating": 4.0},
+    {"id": "prod-97ba476c-006", "name": "Premium Item 6", "category": "clothing", "price": 276.42, "stock": 63, "rating": 4.2},
+    {"id": "prod-97ba476c-007", "name": "Standard Item 7", "category": "clothing", "price": 421.31, "stock": 33, "rating": 4.2},
+    {"id": "prod-97ba476c-008", "name": "Basic Item 8", "category": "home", "price": 244.79, "stock": 150, "rating": 4},
+    {"id": "prod-97ba476c-009", "name": "Premium Item 9", "category": "home", "price": 144.44, "stock": 2, "rating": 2.9},
+    {"id": "prod-97ba476c-010", "name": "Basic Item 10", "category": "electronics", "price": 355.9, "stock": 2, "rating": 3.6},
+    {"id": "prod-97ba476c-011", "name": "Basic Item 11", "category": "clothing", "price": 82.18, "stock": 63, "rating": 3.4},
+    {"id": "prod-97ba476c-012", "name": "Basic Item 12", "category": "clothing", "price": 22.2, "stock": 18, "rating": 4.1},
+    {"id": "prod-97ba476c-013", "name": "Standard Item 13", "category": "books", "price": 123.43, "stock": 8, "rating": 4.4},
+    {"id": "prod-97ba476c-014", "name": "Pro Item 14", "category": "clothing", "price": 125.66, "stock": 135, "rating": 2.3},
+    {"id": "prod-97ba476c-015", "name": "Basic Item 15", "category": "books", "price": 61.43, "stock": 145, "rating": 3.4}
   ],
   "aggregations": {
     "clothing": {
