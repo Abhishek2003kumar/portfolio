@@ -14,4 +14,4 @@
 {"id":"prod-97ba476c-013","name":"Standard Item 13","category":"books","price":123.43,"stock":8,"rating":4.4},
 {"id":"prod-97ba476c-014","name":"Pro Item 14","category":"clothing","price":125.66,"stock":135,"rating":2.3},
 {"id":"prod-97ba476c-015","name":"Basic Item 15","category":"books","price":61.43,"stock":145,"rating":1.4}
-],
+]
