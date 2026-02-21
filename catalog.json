@@ -4,9 +4,9 @@
     "version": "97ba476c"
   },
   "products": [
-    {"id":"prod-97ba476c-001","name":"T-Shirt","category":"clothing","price":1999.99,"stock":10,"rating":4.2},
-    {"id":"prod-97ba476c-002","name":"Jeans","category":"clothing","price":2999.99,"stock":5,"rating":4.5},
-    {"id":"prod-97ba476c-003","name":"Jacket","category":"clothing","price":2499.99,"stock":8,"rating":4.1},
+    {"id":"prod-97ba476c-001","name":"T-Shirt","category":"clothing","price":2999.99,"stock":7,"rating":4.2},
+    {"id":"prod-97ba476c-002","name":"Jeans","category":"clothing","price":2499.99,"stock":9,"rating":4.5},
+    {"id":"prod-97ba476c-003","name":"Jacket","category":"clothing","price":1799.99,"stock":10,"rating":4.1},
 
     {"id":"prod-97ba476c-004","name":"Laptop","category":"electronics","price":55000,"stock":2,"rating":4.7},
     {"id":"prod-97ba476c-005","name":"Headphones","category":"electronics","price":2999,"stock":15,"rating":4.3},
