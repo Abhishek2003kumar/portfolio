@@ -4,25 +4,23 @@
     "version": "97ba476c"
   },
   "products": [
-    {"id":"prod-97ba476c-001","name":"Cloth A","category":"clothing","price":2000.11,"stock":10,"rating":4.1},
-    {"id":"prod-97ba476c-002","name":"Cloth B","category":"clothing","price":3000.22,"stock":9,"rating":4.2},
-    {"id":"prod-97ba476c-003","name":"Cloth C","category":"clothing","price":2873.07,"stock":8,"rating":4.3},
-
-    {"id":"prod-97ba476c-004","name":"Laptop","category":"electronics","price":55000.0,"stock":2,"rating":4.7},
-    {"id":"prod-97ba476c-005","name":"Headphones","category":"electronics","price":2999.0,"stock":15,"rating":4.3},
-    {"id":"prod-97ba476c-006","name":"Mouse","category":"electronics","price":799.0,"stock":20,"rating":4.0},
-
-    {"id":"prod-97ba476c-007","name":"Book","category":"books","price":499.0,"stock":30,"rating":4.8},
-    {"id":"prod-97ba476c-008","name":"Notebook","category":"books","price":199.0,"stock":50,"rating":4.2},
-    {"id":"prod-97ba476c-009","name":"Pen","category":"books","price":49.0,"stock":100,"rating":4.0},
-
-    {"id":"prod-97ba476c-010","name":"Shoes","category":"footwear","price":3499.0,"stock":7,"rating":4.4},
-    {"id":"prod-97ba476c-011","name":"Sandals","category":"footwear","price":1499.0,"stock":12,"rating":4.1},
-    {"id":"prod-97ba476c-012","name":"Slippers","category":"footwear","price":799.0,"stock":25,"rating":4.0},
-
-    {"id":"prod-97ba476c-013","name":"Watch","category":"accessories","price":4999.0,"stock":6,"rating":4.6},
-    {"id":"prod-97ba476c-014","name":"Belt","category":"accessories","price":899.0,"stock":18,"rating":4.2},
-    {"id":"prod-97ba476c-015","name":"Cap","category":"accessories","price":499.0,"stock":22,"rating":4.1}
+    {
+      "id": "prod-97ba476c-001",
+      "name": "Classic Cotton T-Shirt",
+      "category": "clothing",
+      "price": 799.99,
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-97ba476c-002",
+      "name": "Denim Jeans",
+      "category": "clothing",
+      "price": 1999.99,
+      "stock": 12,
+      "rating": 4.3
+    }
+    // ... continue until 15 total products
   ],
   "aggregations": {
     "clothing": {
