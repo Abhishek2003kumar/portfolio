@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "email": "23f3003655@ds.study.iitm.ac.in",
+    "version": "97ba476c"
+  },
+  "products": [
+    {"id":1,"name":"T-Shirt","category":"clothing","price":1999.99,"stock":10,"rating":4.2},
+    {"id":2,"name":"Jeans","category":"clothing","price":2999.99,"stock":5,"rating":4.5},
+    {"id":3,"name":"Jacket","category":"clothing","price":2499.99,"stock":8,"rating":4.1},
+
+    {"id":4,"name":"Laptop","category":"electronics","price":55000,"stock":2,"rating":4.7},
+    {"id":5,"name":"Headphones","category":"electronics","price":2999,"stock":15,"rating":4.3},
+    {"id":6,"name":"Mouse","category":"electronics","price":799,"stock":20,"rating":4.0},
+
+    {"id":7,"name":"Book","category":"books","price":499,"stock":30,"rating":4.8},
+    {"id":8,"name":"Notebook","category":"books","price":199,"stock":50,"rating":4.2},
+    {"id":9,"name":"Pen","category":"books","price":49,"stock":100,"rating":4.0},
+
+    {"id":10,"name":"Shoes","category":"footwear","price":3499,"stock":7,"rating":4.4},
+    {"id":11,"name":"Sandals","category":"footwear","price":1499,"stock":12,"rating":4.1},
+    {"id":12,"name":"Slippers","category":"footwear","price":799,"stock":25,"rating":4.0},
+
+    {"id":13,"name":"Watch","category":"accessories","price":4999,"stock":6,"rating":4.6},
+    {"id":14,"name":"Belt","category":"accessories","price":899,"stock":18,"rating":4.2},
+    {"id":15,"name":"Cap","category":"accessories","price":499,"stock":22,"rating":4.1}
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 68730.77
+    }
+  }
+}
