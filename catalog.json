@@ -10,8 +10,8 @@
 {"id":"prod-97ba476c-009","name":"Premium Item 9","category":"home","price":144.44,"stock":2,"rating":2.9},
 {"id":"prod-97ba476c-010","name":"Basic Item 10","category":"electronics","price":355.9,"stock":2,"rating":1.6},
 {"id":"prod-97ba476c-011","name":"Basic Item 11","category":"clothing","price":82.18,"stock":63,"rating":3.4},
-{"id":"prod-97ba476c-012","name":"Basic Item 12","category":"clothing","price":22.2,"stock":18,"rating":4.1},
+{"id":"prod-97ba476c-012","name":"Basic Item 12","category":"home","price":22.2,"stock":18,"rating":4.1},
 {"id":"prod-97ba476c-013","name":"Standard Item 13","category":"books","price":123.43,"stock":8,"rating":4.4},
 {"id":"prod-97ba476c-014","name":"Pro Item 14","category":"clothing","price":125.66,"stock":135,"rating":2.3},
 {"id":"prod-97ba476c-015","name":"Basic Item 15","category":"books","price":61.43,"stock":145,"rating":1.4}
-]
+],
